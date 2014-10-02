@@ -1,5 +1,5 @@
 === BU Slideshow ===
-Contributors: awbauer, clrux, mgburns
+Contributors: awbauer, clrux, mgburns, bgannonBU
 Tags: slideshow, images, boston university, bu
 Requires at least: 3.5
 Tested up to: 4.0
