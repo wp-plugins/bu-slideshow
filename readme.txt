@@ -1,5 +1,5 @@
 === BU Slideshow ===
-Contributors: awbauer, clrux, mgburns, bgannonBU
+Contributors: awbauer, gannondigital, clrux, mgburns
 Tags: slideshow, images, boston university, bu
 Requires at least: 3.5
 Tested up to: 4.0
@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 BU Slideshow is a plugin for creating and managing image-based slideshows. It is designed to be simple enough for any site admin to use, and powerful enough to meet the needs of designers. The plugin has many optional functions that make it flexible enough for a variety of uses: slideshows, photo rotations, feature card decks in the sidebar, etc. 
+
 [View full documentation on BU.edu](http://www.bu.edu/tech/services/comm/websites/www/wordpress/how-to/create-slideshows/)
 
 = Features =
@@ -19,6 +20,8 @@ BU Slideshow is a plugin for creating and managing image-based slideshows. It is
 * Six locations for caption positioning, also on a per-slide basis
 * Supports unique CSS classes on a per-slide basis for advanced styling options
 * Integrated with WordPress Media Library for image upload/selection, size options, and image cropping/editing
+
+[View project on Github](https://github.com/bu-ist/bu-slideshow)
 
 == Installation ==
 This plugin can be installed automatically through the WordPress admin interface, or by clicking the downlaod link on this page and installing manually.
